@@ -54,3 +54,5 @@ git branch -d <branchname>: It will delete the branch
 git log --pretty=short
 git log --pretty=fuller
 git log pretty='format:%C(auto)%h (%s, %ad)'
+
+git fork
